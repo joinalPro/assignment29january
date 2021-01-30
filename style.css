@@ -1,4 +1,4 @@
-.container{
+.container {
    
 }
 section{
@@ -64,5 +64,31 @@ main{
     background-color: rgb(236, 235, 235);
     border-radius: 10px;
     width: 70%;
-    border: 3px solid red;
+   
+}
+.card-body{
+    width: 80%;
+}
+
+.card-footer{
+    border: none;
+    width: 80%;
+    background-color: #FFF;
+}
+.card-footer h2 {
+    color: #76C27E;
+    font-weight: 700;
+}
+.bottomspace{
+    margin-bottom: 50px;
+    color: #363958;
+    font-weight: 700;
+}
+.subscribe-banner{
+    background-color:#FFFFF4 ;
+    height: 300px;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
