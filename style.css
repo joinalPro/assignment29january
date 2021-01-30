@@ -1,11 +1,53 @@
 .container{
-    margin-bottom: 100px;
+   
+}
+section{
+    margin-bottom: 50px;
+}
+.header-text h1{
+    font-size: 50px;
+    font-weight:800 ;
+}
+.header-text h6{
+    color: gray;
+}
+.h1color1{
+    color: #363958;
+    
+}
+.h1color2{
+    color:#76C27E;
 }
 
-.light-orange{
-    background-color:#FFFFF4 ;
-    
+.top-banner{
+    background-color: #FFFFF4;
+    height: 750px;
 }
 .navbar-nav{
     margin-left: auto;
+}
+.half-width{
+    width: 40%;
+    margin-left: 1%;
+    padding-left: 1%;
+    float: left;
+    
+}
+.buy-now-button{
+    background-color: #2A1E59;
+    color: #FFF;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 5px;
+}
+.icon-fix{
+    width: 25px;
+}
+
+.boxshadow{
+    box-shadow: 2px 2px 10px rgb(233, 227, 227);
+    border-radius: 10px;
+    width: 500px;
+    margin-bottom: 10px;
+    padding-top: 10px;
 }
