@@ -61,18 +61,30 @@ main{
 
 }
 .card-img{
-    background-color: rgb(236, 235, 235);
+        width: 60%;
+  
+}
+.image-background-shadow{
+    background-color: rgb(221, 221, 221);
     border-radius: 10px;
-    width: 70%;
-   
+    height: 300px;
+}
+.card{
+    
+    box-shadow: 1px 1px 5px  rgb(240, 238, 238);
+    padding: 20px;
+
 }
 .card-body{
-    width: 80%;
+    width: auto;
+}
+.card-title{
+    font-weight: 700;
 }
 
 .card-footer{
     border: none;
-    width: 80%;
+    width: 100%;
     background-color: #FFF;
 }
 .card-footer h2 {
@@ -92,3 +104,4 @@ footer{
     text-align: center;
     color: gray;
 }
+
