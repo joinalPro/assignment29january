@@ -4,6 +4,9 @@
 section{
     margin-bottom: 50px;
 }
+main{
+    margin-bottom: 100px;
+}
 .header-text h1{
     font-size: 50px;
     font-weight:800 ;
@@ -50,4 +53,16 @@ section{
     width: 500px;
     margin-bottom: 10px;
     padding-top: 10px;
+}
+.card-update{
+    border: none;
+    text-align: start;
+    padding-left: 10px;
+
+}
+.card-img{
+    background-color: rgb(236, 235, 235);
+    border-radius: 10px;
+    width: 70%;
+    border: 3px solid red;
 }
